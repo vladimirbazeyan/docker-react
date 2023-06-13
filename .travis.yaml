@@ -7,3 +7,4 @@ script:
   - docker run -e CI=true vladimirbazeyan/docker-react npm run test #-- --coverage
 
 
+##text
